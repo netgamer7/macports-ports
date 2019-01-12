@@ -3,10 +3,10 @@
 PortSystem          1.0
 
 name                youtube-dl
-version             2018.12.09
-checksums           rmd160  59a0ceb44a73e7929b01ed0e7ec2e333352a2574 \
-                    sha256  fda38f3239094d31fc9df2433aea15b5256c6b23813b0941e81ee5987f071569 \
-                    size    3073427
+version             2019.01.10
+checksums           rmd160  5c11cf4e02ad37b49bea8ee9d67bc051a3bac046 \
+                    sha256  ed85e20cb5687721e92bae89c583a315abe52d233d5ee4d65c709f640cf0211f \
+                    size    3085961
 
 categories          net
 platforms           darwin
